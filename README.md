@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**nazario22812/nazario22812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nazarii Kravchenko
 
-Here are some ideas to get you started:
+**Junior Full-Stack Developer | Computer Science Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Poland 🇵🇱
+
+I'm a Computer Science student at Lublin University
+of Technology, focused on developing web applications
+using React, Laravel and MySQL.
+
+## Technical Skills
+
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** PHP, Laravel, Inertia.js
+- **Databases:** MySQL
+- **Tools:** Docker, Git, GitHub
+
+## Featured Project
+
+### University Communication Platform
+
+A web application designed to improve communication
+between students, lecturers and university administration.
+
+**Technologies:** React, Laravel, MySQL, Docker
+
+## Current Goals
+
+- Develop practical full-stack projects
+- Improve backend architecture skills
+- Start my professional career in software development
+
+## Links
+
+[GitHub Profile](https://github.com/nazario22812)
