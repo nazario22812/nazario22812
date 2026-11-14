@@ -1,36 +1,38 @@
 
-# Nazarii Kravchenko
+<div align="center">
 
-**Junior Full-Stack Developer | Computer Science Student**
+# 👋 Hey, I'm Nazarii!
 
-Based in Poland 🇵🇱
+### 💻 Aspiring Full-Stack Developer
 
-I'm a Computer Science student at Lublin University
-of Technology, focused on developing web applications
-using React, Laravel and MySQL.
+🎓 Computer Science Student | 🇵🇱 Poland
 
-## Technical Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=React+%7C+Laravel+%7C+MySQL;Building+modern+web+applications;Always+learning+new+things!" />
 
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Backend:** PHP, Laravel, Inertia.js
-- **Databases:** MySQL
-- **Tools:** Docker, Git, GitHub
+</div>
 
-## Featured Project
+---
 
-### University Communication Platform
+### 👨‍💻 About Me
 
-A web application designed to improve communication
-between students, lecturers and university administration.
+- 🎓 Studying Computer Science at Lublin University of Technology
+- 🚀 Building full-stack applications
+- 🌱 Improving my React and Laravel skills
+- 🐳 Exploring Docker and DevOps
 
-**Technologies:** React, Laravel, MySQL, Docker
+### 🛠 Tech Stack
 
-## Current Goals
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Develop practical full-stack projects
-- Improve backend architecture skills
-- Start my professional career in software development
+### 📊 GitHub Statistics
 
-## Links
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazario22812&show_icons=true&theme=tokyonight)
 
-[GitHub Profile](https://github.com/nazario22812)
+### 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nazario22812)
